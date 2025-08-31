@@ -7,8 +7,10 @@ window._config = {
     },
     api: {
         invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        SECRET_HASH: '1auv5m238ca4vu48kqcv4q8reel7pvs4octv2ugi9p6idikl2kla' // shhh
     }
 };
+
 
 
 
